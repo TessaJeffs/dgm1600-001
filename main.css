@@ -1,0 +1,67 @@
+body {
+    background-color:#492a47;
+    margin:auto;
+  }
+  main {width: 960px;
+  margin:1em auto;}
+  header {
+   height: 90px;
+  display: flex;
+  justify-content:center;
+  padding:5px;}
+  
+  #bio {
+  display: flex;
+    margin:1em 0 2em 0;
+  }
+  #bio-choose {width: 100%;
+  margin-left:1rem;}
+  #name-date {
+  display: flex;
+    justify-content: space-between;
+  margin-bottom:1em;}
+  .paragraph-text{padding: 8px;
+  background-color: #545454;
+  font: 1em small-caps, san-serif;}
+  
+  ul {padding-left: 15px;
+    color:#ccc;
+  }
+  #tech {
+    display: flex;
+    justify-content:space-between;
+  }
+  figure{text-align:center;
+  margin:0px;}
+  figure > img {max-height:180px;}
+  figcaption{
+    color:#ccc;
+    font: 1rem "Roboto",sans-serif;
+    background-color: rgba(0,0,0,.6);
+    position:relative;
+    bottom: 20px;
+    height: 40px;
+    max-width:180px;
+  }
+  #interest > h2 {font-weight:bold;}
+  .final-paragraph {margin-bottom:15px;}
+  .excited-header{margin-bottom:15px;}
+  footer {
+   text-align:center;
+    padding-bottom:20px;
+    padding-top:10px;
+  }
+  .fit-picture{
+    max-height: 80px;
+  }
+  p {margin: 0px;
+  color:#eee;}
+  h2, h4 {margin:0px;
+  color: #d1f0ff;
+  font: 1.2rem "Roboto",sans-serif}
+  h5 {margin:5px 0px 15px 0px;
+  color:#d1f0ff;
+  font:1em "Roboto",sans-serif}
+  time {color: white;
+  font: small-caps bold 18px/1 sans-serif;}
+  #biopic{max-height:200px;}
